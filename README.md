@@ -10,7 +10,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 git clone https://github.com/gamzecetinkaya/kodluyoruzilkrepo.git 
 ```
 
-##  #Usage
+##  Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında acınız.
 
@@ -21,11 +21,11 @@ cd kodluyoruzilkrepo
 code . 
 ``` 
 
-## #Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-## #License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
